@@ -1,4 +1,4 @@
-# Market Basket Analysis in Supermarket in Edinburgh
+# Market Basket Analysis in a Supermarket in Edinburgh
 Credit : Cognitive Class
 
 ## Requirements
