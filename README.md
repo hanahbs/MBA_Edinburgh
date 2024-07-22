@@ -21,3 +21,4 @@ Data (in csv) : https://www.kaggle.com/mittalvasu95/the-bread-basket
 5. **62%** of purchases are made on **weekdays** and **37%** are made at the **weekend**
 6. The most active starting from **9 in the morning** to **4 in the evening.**
 7. Buyers become most active during the **afternoon**
+8. Since coffee is by far the most frequent item and the best seller. It can therefore be **recommended** anyway **with every other item**.
